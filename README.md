@@ -20,6 +20,7 @@
 
 ### Project
 **Project:** Exploratory Data Analysis (EDA) on Netflix Dataset
+
 **Objective:**
 Perform a comprehensive EDA on the Netflix dataset to uncover insights related to content
 diversity, audience targeting, and genre preferences.
